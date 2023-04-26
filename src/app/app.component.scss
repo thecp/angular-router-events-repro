@@ -1,0 +1,9 @@
+:host {
+  display: block;
+  flex: 1;
+  overflow: hidden;
+  .router-container {
+    height: 100%;
+    overflow: hidden;
+  }
+}
